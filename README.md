@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Programming a better future** 
+**I'm Joshua Muthii and I  hope to Program a better future** 
 
  🔭 I’m currently working on ... A small compiler for C
 
