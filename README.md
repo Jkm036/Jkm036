@@ -3,8 +3,8 @@
 
 **I'm Joshua Muthii and I  hope to Program a better future** 
 
- 🔭 I’m currently working on ... A small compiler for C
-
+ 🔭 I’m currently working on ... A game engine made entirely in C++
+ 
 🌱 I’m currently learning ...  Low level aspects of computer science that I find interesting 
 
 📫 How to reach me: ... jmuthii@terpmail.umd.edu
