@@ -37,9 +37,10 @@
 
  <div>
    Games <br />
+   <image  height="100px"  src="https://user-images.githubusercontent.com/93635097/241766238-71bcd95f-e090-4698-a5ef-fccc4f4809c6.png"/>
    <image  height="100px"  src="https://user-images.githubusercontent.com/93635097/241752624-a561603c-e0a5-4020-b935-8223de978650.png"/>
-   <image  height="100px"  src="https://user-images.githubusercontent.com/93635097/241766238-71bcd95f-e090-4698-a5ef-fccc4f4809c6.png"/>
-   <image  height="100px"  src="https://user-images.githubusercontent.com/93635097/241766238-71bcd95f-e090-4698-a5ef-fccc4f4809c6.png"/>
+
+
  </div>
  <div>
   Bots <br />
@@ -48,10 +49,9 @@
  
  <div>
   Currently learning graphic rendering with OpenGL <br />
-
- <image height="150px"  src="https://github.com/Jkm036/Jkm036/assets/93635097/c41949ab-dd9e-4078-8df3-7628c92390b0"/>
- <img src = "https://github.com/Jkm036/GameEngine/assets/93635097/ed56d0ca-dc43-4e54-b5b7-f45ee47294e6" height = "150px"/>
  <img src="https://github.com/Jkm036/Jkm036/assets/93635097/60cc1818-c95b-4167-989c-6ea8aeff6ecb" height = "150px"/>
+ <image height="150px"  src="https://github.com/Jkm036/Jkm036/assets/93635097/c41949ab-dd9e-4078-8df3-7628c92390b0"/>
+ 
 
  </div>
  
