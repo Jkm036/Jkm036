@@ -49,10 +49,11 @@
  
  <div>
   Currently learning graphic rendering with OpenGL <br />
+ <img src="https://github.com/Jkm036/Jkm036/assets/93635097/6b879767-7b9f-46f0-9f10-2a402b8bdccc" height="150px">
  <img src="https://github.com/Jkm036/Jkm036/assets/93635097/60cc1818-c95b-4167-989c-6ea8aeff6ecb" height = "150px"/>
  <img height="150px"  src="https://github.com/Jkm036/Jkm036/assets/93635097/c41949ab-dd9e-4078-8df3-7628c92390b0"/>
  
-<img src="https://github.com/Jkm036/Jkm036/assets/93635097/6b879767-7b9f-46f0-9f10-2a402b8bdccc" height="150px">
+
 
  </div>
  
