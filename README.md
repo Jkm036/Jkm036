@@ -36,6 +36,15 @@
 ### Some of my recent works
 
  <div>
+  Currently learning graphic rendering with OpenGL <br />
+ <img src="https://github.com/Jkm036/Jkm036/assets/93635097/6b879767-7b9f-46f0-9f10-2a402b8bdccc" height="150px">
+ <img src="https://github.com/Jkm036/Jkm036/assets/93635097/60cc1818-c95b-4167-989c-6ea8aeff6ecb" height = "150px"/>
+ <img height="150px"  src="https://github.com/Jkm036/Jkm036/assets/93635097/c41949ab-dd9e-4078-8df3-7628c92390b0"/>
+ 
+
+
+ </div>
+ <div>
    Games <br />
    <image  height="100px"  src="https://user-images.githubusercontent.com/93635097/241766238-71bcd95f-e090-4698-a5ef-fccc4f4809c6.png"/>
    <image  height="100px"  src="https://user-images.githubusercontent.com/93635097/241752624-a561603c-e0a5-4020-b935-8223de978650.png"/>
@@ -47,15 +56,7 @@
  <image height="100px"  src="https://github.com/Jkm036/Jkm036/assets/93635097/f4ecd895-41cc-4411-884e-3be1d966ffb3"/>
  </div>
  
- <div>
-  Currently learning graphic rendering with OpenGL <br />
- <img src="https://github.com/Jkm036/Jkm036/assets/93635097/6b879767-7b9f-46f0-9f10-2a402b8bdccc" height="150px">
- <img src="https://github.com/Jkm036/Jkm036/assets/93635097/60cc1818-c95b-4167-989c-6ea8aeff6ecb" height = "150px"/>
- <img height="150px"  src="https://github.com/Jkm036/Jkm036/assets/93635097/c41949ab-dd9e-4078-8df3-7628c92390b0"/>
  
-
-
- </div>
  
  
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Jkm036&theme=dark&background=000000"/></div>
