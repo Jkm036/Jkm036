@@ -52,8 +52,10 @@
 
  </div>
  <div>
-  Bots <br />
- <image height="100px"  src="https://github.com/Jkm036/Jkm036/assets/93635097/f4ecd895-41cc-4411-884e-3be1d966ffb3"/>
+  Websites <br />
+
+ <image height="100px"  src="https://github.com/Jkm036/Jkm036/assets/93635097/8db193f7-d219-4617-8460-87d85ea27e57"/>
+ 
  </div>
  
  
