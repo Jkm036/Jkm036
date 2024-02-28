@@ -5,7 +5,7 @@
 **Programming a Better Future** 
 --
 
- 🔭 I’m currently working on ... A game engine made entirely in C++
+ 🔭 I’m currently working on ... A Tiny Kerel 
  
 🌱 I’m currently learning ...  Low level aspects of computer science that I find interesting 
 
