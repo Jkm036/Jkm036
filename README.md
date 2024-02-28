@@ -9,7 +9,7 @@
  
 🌱 I’m currently learning ...  Low level aspects of computer science that I find interesting 
 
-📫 How to reach me: ... jmuthii@terpmail.umd.edu
+📫 How to reach me: ... joshkmuthii@gmail.com
 
 😄 Pronouns: ... He/Him
 
