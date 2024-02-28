@@ -14,7 +14,6 @@
 😄 Pronouns: ... He/Him
 
 ### Proficient Skills
---
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="OpenGL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
@@ -35,7 +34,6 @@
 <br />
 
 ### Some of my recent works
----
  <div>
   Currently learning graphic rendering with OpenGL <br />
  <img src="https://github.com/Jkm036/Jkm036/assets/93635097/6b879767-7b9f-46f0-9f10-2a402b8bdccc" height="150px">
