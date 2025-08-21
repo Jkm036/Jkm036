@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Joshua Muthii and this is my work
 
 
-**Programming a Better Future** 
+**I Want to Write a Better Future** 
 ---
 
  🔭 I’m currently working on ... A Tiny Kerel 
